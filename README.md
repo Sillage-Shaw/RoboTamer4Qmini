@@ -46,7 +46,7 @@ birl4q1/
 
 ### Notes
 * Some paths are hard-coded in _play.py_, _train.py_, _Base.py_, _tune_urdf.py_, and _tune_pid.py_. Be careful about them.
-* This repository is not maintained anymore. If you have any question, please send emails to yy_chen@mail.sdu.edu.cn.
+* This repository is not maintained anymore. If you have any question, please send emails to info@vsislab.com.
 * The project can only be run after successful installation.
 
 
@@ -195,10 +195,6 @@ If you use this code in your research, please cite our work:
 
 ```
 
-
-## Contact
-
-For questions or support, please open an issue on GitHub or contact us at [yy_chen@mail.sdu.edu.cn].
 
 
 
