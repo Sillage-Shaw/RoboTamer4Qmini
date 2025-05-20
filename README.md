@@ -28,7 +28,7 @@ Shandong University, China<br>
 
 ## Code Structure
    ```
-birl4q1/
+RoboTamer4Qmini/
    ├── assets/                 # The URDF model of our robot
    ├── config/                 # Configuration files
    ├── env/                    # Simulation environments
