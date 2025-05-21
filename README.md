@@ -11,7 +11,7 @@
 🚀 Future updates are planned to add new features and optimize performance.  
 Stay tuned for changelogs!
 
-This repository offers an open-source framework for bipedal robot motion control, leveraging deep reinforcement learning within NVIDIA's Isaac Gym environment. It enables training robots like Unitree Q1 to walk on rough terrain and includes critical domain randomization and random pushes during training for sim-to-real transfer. The repository contains the complete codebase for both training and deploying the biped robots in simulation environments.
+This repository offers an open-source framework for bipedal robot motion control, leveraging deep reinforcement learning within NVIDIA's Isaac Gym environment. It enables training robots like Unitree Qmini to walk on rough terrain and includes critical domain randomization and random pushes during training for sim-to-real transfer. The repository contains the complete codebase for both training and deploying the biped robots in simulation environments.
 
 **Maintainer**: Yanyun Chen, Tiyu Fang, Wenhao Tan, Xing Fang, Kaiwen Li, Kunqi Zhang, and Wei zhang<br>
 **Affiliation**: Visual Sensing and Intelligent System Lab (VSISLab),
@@ -148,7 +148,7 @@ $ python tune_pid.py
 
 ## Contributing
 
-We welcome contributions from the community! Please contact us at yy_chen@mail.sdu.edu.cn before submitting pull requests.
+We welcome contributions from the community! Please contact us at info@vsislab.com before submitting pull requests.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/your-feature`)
