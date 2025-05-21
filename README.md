@@ -140,7 +140,7 @@ $ python export_pt2onnx.py --name <name>
 ```bash
 $ python tune_urdf.py
 ```
-### To optimize PID parameters to minimize the discrepancy between simulation and real-world robot behavior:**
+### **To optimize PID parameters to minimize the discrepancy between simulation and real-world robot behavior:**
 ```bash
 $ python tune_pid.py
 ```
