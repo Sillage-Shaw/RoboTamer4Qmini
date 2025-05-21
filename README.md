@@ -17,8 +17,8 @@ This repository offers an open-source framework for bipedal robot motion control
 **Affiliation**: Visual Sensing and Intelligent System Lab (VSISLab),
 School of Control Science and Engineering,
 Shandong University, China<br>
-**Website**: www.vsislab.com<br>  
-**Contact**: info@vsislab.com<br>
+**Website**: www.vsislab.com  
+**Contact**: info@vsislab.com
 
 ## Features
 - **Advanced Control Algorithms**: Implements PPO algorithm using Isaac Gym for stable and efficient locomotion control.<br>
