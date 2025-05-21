@@ -130,7 +130,7 @@ $ python play.py --name <name> --render --time 10 --video --debug
   - --epochs <int> # Number of evaluation epochs (Default: 1)
   - --debug # Boolean flag (Default: False), save data to Excel
 
-### ** To export the pre-trained *pt models to onnx models (default:test): **
+### **To export the pre-trained *pt models to onnx models (default:test):**
 ```bash
 $ python export_pt2onnx.py --name <name>
 ```
