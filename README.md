@@ -134,7 +134,7 @@ $ python play.py --name <name> --render --time 10 --video --debug
 ```bash
 $ python export_pt2onnx.py --name <name>
 ```
-  - --name <str> # 实验名称（默认: 'test'），policy.onnx is saved to directory 'name/deploy'
+  - --name <str> # Experiment name (Default: 'test')，the policy.onnx is saved to directory 'name/deploy'
 
 ### **To load a urdf model:**
 ```bash
